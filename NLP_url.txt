@@ -1,0 +1,6 @@
+*****************************NLP**************************
+hanlp官方文档  http://hanlp.linrunsoft.com/doc.html
+crfpp windows安装 https://blog.csdn.net/Likianta/article/details/86318565
+crf 中文分词 https://blog.csdn.net/u013378306/article/details/54603948
+jieba 中文官方文档 https://github.com/fxsjy/jieba
+pydot https://blog.csdn.net/sinat_40282753/article/details/85046871
